@@ -2,9 +2,7 @@
 *.ods
 *.ott
 *#
-.LABs/
-.TMP/
-.TRASH/
+.x/
 *.tmp
 *.zip
 *.tar*/
